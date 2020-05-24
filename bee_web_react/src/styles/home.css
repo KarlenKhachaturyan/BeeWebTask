@@ -1,0 +1,11 @@
+.home{
+    background-image: url(https://c1.wallpaperflare.com/preview/622/543/785/start-start-up-startup-career.jpg);
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#welcome {
+    margin-left:10px; 
+    color:white;
+}
